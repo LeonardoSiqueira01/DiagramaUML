@@ -7,7 +7,6 @@ public class aplicacaoJava {
 		iphone.Desligar();
 		iphone.iniciarCorrerioVoz();
 		iphone.Desligar();
-
 		
 		iphone.selecionarMusica();
 		iphone.Tocar();
